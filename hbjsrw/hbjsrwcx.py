@@ -4,15 +4,15 @@ from PIL import Image
 import time,re,json
 import sys,os
 sys.path.append(os.getcwd())
-from hbjsrw.utils import utils,yzm
+from .utils import utils,yzm
 
 def hbjsrw(**kwargs):
     driver = webdriver.PhantomJS()
-    # chrome_options = Options()
-    # chrome_options.add_argument('--headless')
-    # chrome_options.add_argument('--disable-gpu')
-    # driver = webdriver.Chrome(chrome_options=chrome_options)
-    driver.set_page_load_timeout(5)
+    #chrome_options = Options()
+    #chrome_options.add_argument('--headless')
+    #chrome_options.add_argument('--disable-gpu')
+    #driver = webdriver.Chrome(chrome_options=chrome_options)
+    #driver.set_page_load_timeout(5)
     # driver = webdriver.Chrome()
     try:
         driver.get("http://dzjc.tsjsr.com/index-315-2.html")
@@ -198,7 +198,7 @@ def jieguo(driver,cph):
         return json.dumps(jsonL, ensure_ascii=False)
 
 if __name__ == '__main__':
-    hbjsrw()
-    # while True:
-    #     aa = hbjsrw(cph = "冀B6X9Y8" )
-    #     print(aa)
+    # hbjsrw()
+    while True:
+       aa = hbjsrw(cph = "冀B6X9Y8" )
+       print(aa)

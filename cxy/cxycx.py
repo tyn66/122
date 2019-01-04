@@ -4,7 +4,7 @@ import time,re,json
 import os
 import sys
 sys.path.append(os.getcwd())
-from cxy.utils import utils
+from .utils import utils
 def cxy1(**kwargs):
     # chrome_options = Options()
     # chrome_options.add_argument('--headless')

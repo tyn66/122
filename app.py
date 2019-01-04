@@ -3,11 +3,11 @@ from flask import render_template,request
 from flask_cors import *
 import sys,os
 sys.path.append(os.getcwd())
-from gevent import monkey
-from gevent.pywsgi import WSGIServer
 from hbjsrw import hbjsrwcx
 from cxy import cxycx
 import json
+from gevent import monkey
+from gevent.pywsgi import WSGIServer
 
 app = Flask(__name__)
 CORS(app, supports_credentials=True)
@@ -55,6 +55,6 @@ def apilongs():
     return json.dumps(a)
 
 if __name__ == '__main__':
-    # app.run(debug=False,host='0.0.0.0', port=8080)
-    http_server = WSGIServer(('0.0.0.0', 9900), app)
-    http_server.serve_forever()
+    app.run(debug=False,host='0.0.0.0', port=9900)
+    # http_server = WSGIServer(('0.0.0.0', 9900), app)
+    # http_server.serve_forever()

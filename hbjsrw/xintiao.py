@@ -31,7 +31,7 @@ def Heartbeat():
 
     channel_province = '冀'
     channel_id = 3
-    channel_flag = 1
+    channel_flag = 3
     # channel_type = 1 #1 为不要验证码
     need_vin = 4 #车架号 0 为不需要 4为后四位 6为后六位99为完整的
     need_engine_number = 0 #发动机号 0 为不需要 4为后四位 6为后六位99为完整的
@@ -40,7 +40,7 @@ def Heartbeat():
     a = {
         "channel_province": channel_province, #省份
         "channel_id": channel_id, # 通道ID
-        "channel_ip": channel_ip, #服务器ip
+        "channel_ip": "%s:9900"%channel_ip, #服务器ip
         "channel_flag": channel_flag, #标识
         # "channel_type": channel_type,  # 通道类型
         "channel_memery_total": channel_memery_total, #总内存

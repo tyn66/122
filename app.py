@@ -19,7 +19,7 @@ def hbjswm():
 
 @app.route('/3/',methods=["POST"])
 def hblongs():
-    cph = request.form.get("cph")
+    cph = request.form.get("plate_number")
     b = hbjsrwcx.hbjsrw(cph=cph)
     return b
 
@@ -31,7 +31,7 @@ def cxy():
 def cxylongs():
     cph = request.form.get("cph")
     sbm = request.form.get("sbm")
-    b = cxycx.cxy(cph=cph, sbm=sbm)
+    b = cxycx.cxy1(cph=cph, sbm=sbm)
     return b
 
 @app.route('/0/',methods=["POST"])
@@ -56,5 +56,5 @@ def apilongs():
 
 if __name__ == '__main__':
     # app.run(debug=False,host='0.0.0.0', port=8080)
-    http_server = WSGIServer(('0.0.0.0', 8080), app)
+    http_server = WSGIServer(('0.0.0.0', 9900), app)
     http_server.serve_forever()

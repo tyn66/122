@@ -11,18 +11,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/flask$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1545893209607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/flask$aa.coverage" NAME="aa Coverage Results" MODIFIED="1545464931446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrw" />
-    <SUITE FILE_PATH="coverage/flask$flask.coverage" NAME="flask查询 Coverage Results" MODIFIED="1545978153917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/122$bohao.coverage" NAME="bohao Coverage Results" MODIFIED="1546568974763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/flask$czt.coverage" NAME="czt Coverage Results" MODIFIED="1545464279161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/czt" />
     <SUITE FILE_PATH="coverage/flask$hbjsrw__1_.coverage" NAME="hbjsrw (1) Coverage Results" MODIFIED="1545466070329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrm" />
-    <SUITE FILE_PATH="coverage/flask$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1545700629322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cxy/utils" />
-    <SUITE FILE_PATH="coverage/flask$test.coverage" NAME="test Coverage Results" MODIFIED="1545962854588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask$cxycx.coverage" NAME="cxycx Coverage Results" MODIFIED="1545980227473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cxy" />
+    <SUITE FILE_PATH="coverage/flask$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1545893209607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask$czt.coverage" NAME="czt Coverage Results" MODIFIED="1545464279161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/czt" />
+    <SUITE FILE_PATH="coverage/122$flask.coverage" NAME="flask查询 Coverage Results" MODIFIED="1547192281767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/122$bohao.coverage" NAME="bohao Coverage Results" MODIFIED="1546568974763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask$flask.coverage" NAME="flask查询 Coverage Results" MODIFIED="1545978153917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask$hbjsrw.coverage" NAME="hbjsrw Coverage Results" MODIFIED="1545465994105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrw" />
     <SUITE FILE_PATH="coverage/flask$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1545813958657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask$aa.coverage" NAME="aa Coverage Results" MODIFIED="1545464931446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrw" />
+    <SUITE FILE_PATH="coverage/flask$test.coverage" NAME="test Coverage Results" MODIFIED="1545962854588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask$hbjsrwcx.coverage" NAME="hbjsrwcx Coverage Results" MODIFIED="1545979902259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrw" />
-    <SUITE FILE_PATH="coverage/flask$cxycx.coverage" NAME="cxycx Coverage Results" MODIFIED="1545980227473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cxy" />
+    <SUITE FILE_PATH="coverage/flask$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1545700629322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cxy/utils" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="949498850">
@@ -212,7 +213,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="242" />
     <option name="y" value="33" />
     <option name="width" value="1075" />
@@ -266,8 +267,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bohao">
-    <configuration name="jgw.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask查询/templates/jgw.html">
+  <component name="RunManager" selected="Flask server.flask查询">
+    <configuration name="jgw.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask查询/templates/jgw.html">
       <method v="2" />
     </configuration>
     <configuration name="bohao" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -360,7 +361,6 @@
     </configuration>
     <configuration name="flask查询" type="Python.FlaskServer" factoryName="Flask server">
       <option name="additionalOptions" value="--host=0.0.0.0 --port=8080" />
-      <option name="application" value="" />
       <module name="flask查询" />
       <option name="target" value="$PROJECT_DIR$/app.py" />
       <option name="targetType" value="PATH" />
@@ -377,10 +377,10 @@
     </configuration>
     <list>
       <item itemvalue="Flask server.flask查询" />
+      <item itemvalue="JavaScript Debug.jgw.html" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.hbjsrwcx" />
       <item itemvalue="Python.cxycx" />
-      <item itemvalue="JavaScript Debug.jgw.html" />
       <item itemvalue="Python.bohao" />
     </list>
     <recent_temporary>

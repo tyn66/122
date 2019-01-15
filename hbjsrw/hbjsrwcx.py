@@ -4,16 +4,16 @@ from PIL import Image
 import time,re,json
 import sys,os
 sys.path.append(os.getcwd())
-from .utils import utils,yzm
+from hbjsrw.utils import utils,yzm
 
 def hbjsrw(**kwargs):
-    driver = webdriver.PhantomJS()
+    # driver = webdriver.PhantomJS()
     #chrome_options = Options()
     #chrome_options.add_argument('--headless')
     #chrome_options.add_argument('--disable-gpu')
     #driver = webdriver.Chrome(chrome_options=chrome_options)
     #driver.set_page_load_timeout(5)
-    # driver = webdriver.Chrome()
+    driver = webdriver.Chrome()
     try:
         driver.get("http://dzjc.tsjsr.com/index-315-2.html")
         cph = kwargs["cph"]

@@ -1,0 +1,8 @@
+河北驾驶人网爬虫错误3
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64)
+
+河北驾驶人网爬虫错误6
+%s

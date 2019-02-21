@@ -78,7 +78,8 @@ def yzm1(driver,cph):
         driver.find_element_by_id("code").send_keys(yzm2)
         driver.find_element_by_id("button_submit").click()
         try:
-            aa = driver.find_element_by_id('bap').text
+            time.sleep(0.5)
+            aa = driver.find_element_by_xpath('//*[@id="bap"]').text
             if aa == "违法信息正在维护":
                 driver.quit()
                 # L = ["车牌号输入有误"]

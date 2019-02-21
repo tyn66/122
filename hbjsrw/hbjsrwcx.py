@@ -78,6 +78,16 @@ def yzm1(driver,cph):
         driver.find_element_by_id("code").send_keys(yzm2)
         driver.find_element_by_id("button_submit").click()
         try:
+            aa = driver.find_element_by_id('bap').text
+            if aa == "违法信息正在维护":
+                driver.quit()
+                # L = ["车牌号输入有误"]
+                jsonL = {
+                    "code": 0,
+                    "msg": "违法信息正在维护",
+                    "data": "",
+                }
+                return json.dumps(jsonL, ensure_ascii=False)
             time.sleep(0.5)
             driver.find_element_by_xpath('//*[@id="state"]/input').click()
             return jietu(driver,cph)
@@ -103,7 +113,7 @@ def cjh(driver,cph):
             driver.quit()
             # L = ["车牌号输入有误"]
             jsonL = {
-                "code": 0,
+                "code": 0,                                                                                                                                                                                                                                        
                 "msg":"车牌号输入有误",
                 "data": "",
             }
@@ -199,6 +209,6 @@ def jieguo(driver,cph):
 
 if __name__ == '__main__':
     # hbjsrw()
-    while True:
-       aa = hbjsrw(cph = "冀B6X9Y8" )
-       print(aa)
+    # while True:
+    aa = hbjsrw(cph = "冀B6X9Y8" )
+    print(aa)

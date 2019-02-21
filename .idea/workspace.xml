@@ -14,9 +14,10 @@
     <SUITE FILE_PATH="coverage/flask$hbjsrw__1_.coverage" NAME="hbjsrw (1) Coverage Results" MODIFIED="1545466070329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrm" />
     <SUITE FILE_PATH="coverage/flask$cxycx.coverage" NAME="cxycx Coverage Results" MODIFIED="1545980227473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cxy" />
     <SUITE FILE_PATH="coverage/flask$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1545893209607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/122$hbjsrwcx.coverage" NAME="hbjsrwcx Coverage Results" MODIFIED="1547261146577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrw" />
+    <SUITE FILE_PATH="coverage/122$hbjsrwcx.coverage" NAME="hbjsrwcx Coverage Results" MODIFIED="1550718369757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrw" />
     <SUITE FILE_PATH="coverage/flask$czt.coverage" NAME="czt Coverage Results" MODIFIED="1545464279161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/czt" />
     <SUITE FILE_PATH="coverage/122$flask.coverage" NAME="flask查询 Coverage Results" MODIFIED="1547192281767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/122$aaaa.coverage" NAME="aaaa Coverage Results" MODIFIED="1547884797286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/122$bohao.coverage" NAME="bohao Coverage Results" MODIFIED="1546568974763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask$flask.coverage" NAME="flask查询 Coverage Results" MODIFIED="1545978153917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/flask$hbjsrw.coverage" NAME="hbjsrw Coverage Results" MODIFIED="1545465994105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hbjsrw" />
@@ -31,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hbjsrw/hbjsrwcx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="242">
+              <caret line="89" column="60" lean-forward="true" selection-start-line="80" selection-start-column="11" selection-end-line="89" selection-end-column="60" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -41,10 +42,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hbjsrw/xintiao.py">
+        <entry file="file://$PROJECT_DIR$/hbjsrw/utils/yzm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="267">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="988">
+              <caret line="38" column="50" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="50" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -114,26 +118,26 @@
         <option value="$PROJECT_DIR$/hbjsrw.txt" />
         <option value="$PROJECT_DIR$/hbjsrw/xintiao.py" />
         <option value="$PROJECT_DIR$/templates/hbjsrw.html" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/cxy/cxycx.py" />
         <option value="$PROJECT_DIR$/bohao.py" />
         <option value="F:/chaxun/bohao.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/aaaa.py" />
         <option value="$PROJECT_DIR$/hbjsrw/hbjsrwcx.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="548" />
-    <option name="y" value="99" />
-    <option name="width" value="1075" />
-    <option name="height" value="738" />
+    <option name="x" value="720" />
+    <option name="y" value="69" />
+    <option name="width" value="1300" />
+    <option name="height" value="809" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,10 +145,16 @@
               <item name="122" type="b2602c69:ProjectViewProjectNode" />
               <item name="122" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="122" type="b2602c69:ProjectViewProjectNode" />
+              <item name="122" type="462c0819:PsiDirectoryNode" />
+              <item name="hbjsrw" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,7 +187,26 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.hbjsrwcx">
-    <configuration name="jgw.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask查询/templates/jgw.html">
+    <configuration name="aaaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask查询" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="bohao" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -286,19 +315,19 @@
     </configuration>
     <list>
       <item itemvalue="Flask server.flask查询" />
-      <item itemvalue="JavaScript Debug.jgw.html" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.hbjsrwcx" />
       <item itemvalue="Python.cxycx" />
       <item itemvalue="Python.bohao" />
+      <item itemvalue="Python.aaaa" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.hbjsrwcx" />
+        <item itemvalue="Python.aaaa" />
         <item itemvalue="Python.bohao" />
         <item itemvalue="Python.cxycx" />
         <item itemvalue="Python.test" />
-        <item itemvalue="JavaScript Debug.jgw.html" />
       </list>
     </recent_temporary>
   </component>
@@ -314,23 +343,35 @@
       <updated>1545377396902</updated>
       <workItem from="1547192275215" duration="1236000" />
       <workItem from="1547261031919" duration="170000" />
+      <workItem from="1547601521721" duration="4461000" />
+      <workItem from="1547685089808" duration="99000" />
+      <workItem from="1547688679299" duration="4508000" />
+      <workItem from="1547857781374" duration="5307000" />
+      <workItem from="1548030108308" duration="1951000" />
+      <workItem from="1548039814057" duration="1865000" />
+      <workItem from="1549939961157" duration="1840000" />
+      <workItem from="1550046140040" duration="26000" />
+      <workItem from="1550642021424" duration="158000" />
+      <workItem from="1550642323792" duration="4308000" />
+      <workItem from="1550709241275" duration="599000" />
+      <workItem from="1550717652423" duration="777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1406000" />
+    <option name="totallyTimeSpent" value="27305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.052238807" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3270525" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2548807" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36473754" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29718006" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31344903" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -350,18 +391,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hbjsrw/hbjsrwcx.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hbjsrw/hbjsrwcx.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hbjsrw/hbjsrwcx.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hbjsrw/hbjsrwcx.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hbjsrw/hbjsrwcx.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hbjsrw/.idea/misc.xml" />
-    <entry file="file://$PROJECT_DIR$/hbjsrw/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbjsrw/yzm.py" />
-    <entry file="file://$PROJECT_DIR$/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hbjsrw/aa.py" />
-    <entry file="file://$PROJECT_DIR$/hbjsrm/utils/yzm.py" />
-    <entry file="file://$PROJECT_DIR$/hbjsrm/hbjsrw.py" />
     <entry file="file://$PROJECT_DIR$/czt/utils/utils.py" />
     <entry file="file://C:/python/Lib/runpy.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -404,13 +465,6 @@
     <entry file="file://$PROJECT_DIR$/config.py" />
     <entry file="file://$PROJECT_DIR$/app1.py" />
     <entry file="file://$PROJECT_DIR$/flaskwork.py" />
-    <entry file="file://$PROJECT_DIR$/templates/cxy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="9" column="73" lean-forward="true" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hbjsrw/utils/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -434,27 +488,7 @@
     <entry file="file://$PROJECT_DIR$/hbjsrw.txt" />
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/111.txt" />
-    <entry file="file://$PROJECT_DIR$/hbjsrw/utils/yzm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/冀B6X9Y8.png" />
-    <entry file="file://$PROJECT_DIR$/cxy/cxycx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/hbjsrw.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -466,29 +500,94 @@
       </provider>
     </entry>
     <entry file="file://F:/chaxun/bohao.py" />
-    <entry file="file://$PROJECT_DIR$/hbjsrw/hbjsrwcx.py">
+    <entry file="file://$PROJECT_DIR$/../chaxun/xintiao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="546">
+          <caret line="48" column="54" lean-forward="true" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.wget" />
+    <entry file="file://$PROJECT_DIR$/aaaa.py" />
+    <entry file="file://$PROJECT_DIR$/hbjsrw/xintiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cxy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgw/utils/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1744" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgw/utils/ipc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cxy/cxycx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hbjsrw/xintiao.py">
+    <entry file="file://$PROJECT_DIR$/jgw/utils/jgw_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="52">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jgw/jgwcx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="988">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="50" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbjsrw/utils/yzm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbjsrw/hbjsrwcx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="89" column="60" lean-forward="true" selection-start-line="80" selection-start-column="11" selection-end-line="89" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>

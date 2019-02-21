@@ -209,6 +209,6 @@ def jieguo(driver,cph):
 
 if __name__ == '__main__':
     # hbjsrw()
-    # while True:
-    aa = hbjsrw(cph = "冀B6X9Y8" )
-    print(aa)
+    while True:
+        aa = hbjsrw(cph = "冀B6X9Y8" )
+        print(aa)
